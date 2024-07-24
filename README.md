@@ -1,1 +1,2 @@
 # odin-recipes
+This is a short project to demonstrate my current skills with HTML and to later use in order to practice CSS. By the end of it, I should be able to show how I can use images, bold/italics, paragraphs, headers, links, and lists. 
